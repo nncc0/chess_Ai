@@ -56,7 +56,7 @@ A smart Python-based assistant that connects to [Chess.com](https://chess.com), 
    * Place the Stockfish binary at the expected location:
 
      ```bash
-     /home/dev/intelligent_agent/stockfish
+     /home/dev/chess_Ai/stockfish
      ```
    * Or modify the path in `chess_bot.py` (`self.stockfish_path`)
 
