@@ -13,6 +13,9 @@ from datetime import datetime
 import uuid
 import shutil
 
+
+
+
 class ChessBot:
     def __init__(self):
         self.board = chess.Board()
