@@ -1,6 +1,4 @@
-Thanks! Based on your Python script (`chess_bot.py`), I’ve drafted a comprehensive `README.md` file for your **Chess Assistant Bot**, which integrates the Stockfish engine with Selenium and automates interaction with [Chess.com](https://chess.com).
 
----
 
 # ♟️ Chess Assistant Bot
 
